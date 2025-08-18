@@ -1,4 +1,4 @@
-module github.com/edahlseng/terraform-provider-repository-template
+module github.com/ShaperTools/terraform-provider-repository-template
 
 require (
 	github.com/google/go-github/v19 v19.1.0
